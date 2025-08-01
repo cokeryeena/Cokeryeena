@@ -1,6 +1,6 @@
 ## 🏅 Certifications
 
-[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/340x340/images/70e4c6f0-3dfb-4b14-b56e-27f3b3bca8c5/image.png)](https://www.credly.com/badges/e3b85569-8f7e-4642-b997-648c350313c7)## Hi there 👋
+[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/340x340/images/70e4c6f0-3dfb-4b14-b56e-27f3b3bca8c5/image.png)](https://www.credly.com/badges/e3b85569-8f7e-4642-b997-648c350313c7)
 
 <!--
 **cokeryeena/Cokeryeena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
