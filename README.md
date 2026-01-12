@@ -77,7 +77,7 @@ If it runs on Linux and scales — I’m interested.
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 - GitHub: [github.com/cokeryeena](https://github.com/cokeryeena)
 - LinkedIn: linkedin.com/in/gospelcoker
