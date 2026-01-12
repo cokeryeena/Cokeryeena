@@ -43,12 +43,6 @@ I’m currently building toward becoming a **Kubernetes / Cloud Engineer**
 - GitHub Actions (learning & building)
 - Infrastructure concepts (IaC mindset)
 
-**Tools**
-- VS Code
-- AWS CLI
-- kubectl
-- Docker CLI
-
 ---
 
 ## Projects
@@ -65,15 +59,6 @@ I’m currently building toward becoming a **Kubernetes / Cloud Engineer**
 - CI/CD pipelines
 - AWS certifications & hands-on labs
 
----
-
-## Open To
-
-- Junior Cloud & DevOps roles  
-- Open-source collaboration  
-- Remote opportunities  
-
-If it runs on Linux and scales — I’m interested.
 
 ---
 
